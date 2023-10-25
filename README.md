@@ -12,11 +12,14 @@
 - 🏆 Hak5 Awarded Payload Creator
 </p>
 
+<p align="center">
+Loot on!
+<br /><br />
+https://hak5.org/search?type=article&q=HackingMark
+</p>
 
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/0068/2142/files/payload-awards-banner_1400x.png?v=1670877079" width="720" title="hover text">
 </p>
-<p align="center">
-Loot on!
-</p>
+
 
